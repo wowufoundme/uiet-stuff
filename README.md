@@ -1,6 +1,7 @@
 # UIET Stuff
 
 Curated collection of stuff from people in UIET. You are free to share any course related work: code, practical files, books PDF.
+I also don't take guarantee that all the codes inside from all the students will work. You will have to check them yourselves.
 
 Remember that Github has file size limit to 25MB, so only upload files that are <25 MB.
 
@@ -21,3 +22,4 @@ _You are free to add your name under the list of contributors if you want to. I'
 |Name |Year of Passing |Branch | 
 |-|- |- |
 |Shubhkirti Sharma |2020 |CSE |
+|Shivank Bali |2020 |CSE |
