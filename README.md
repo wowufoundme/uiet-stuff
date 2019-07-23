@@ -23,3 +23,4 @@ _You are free to add your name under the list of contributors if you want to. I'
 |-|- |- |
 |Shubhkirti Sharma |2020 |CSE |
 |Shivank Bali |2020 |CSE |
+|Pratik Joshi |2020 |CSE |
